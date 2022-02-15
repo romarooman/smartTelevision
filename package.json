@@ -2,7 +2,7 @@
   "name": "smarttv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://romarooman.github.io/smarttvnpm install --save gh-pages",
+  "homepage": "https://romarooman.github.io/smarttvnpm",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
