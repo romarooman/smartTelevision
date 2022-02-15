@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/smarttvnpm/static/css/main.0c1838c2.css",
+    "main.js": "/smarttvnpm/static/js/main.05903037.js",
+    "static/js/787.e12d87f0.chunk.js": "/smarttvnpm/static/js/787.e12d87f0.chunk.js",
+    "static/media/HeroVideo.mp4": "/smarttvnpm/static/media/HeroVideo.74796462ee4bc93573a3.mp4",
+    "static/media/QRcode.svg": "/smarttvnpm/static/media/QRcode.c9ab6ee23c73654c01fb75df8c36a287.svg",
+    "static/media/Hamburger.svg": "/smarttvnpm/static/media/Hamburger.e9370a5673a26700752393027ef34b7c.svg",
+    "index.html": "/smarttvnpm/index.html",
+    "main.0c1838c2.css.map": "/smarttvnpm/static/css/main.0c1838c2.css.map",
+    "main.05903037.js.map": "/smarttvnpm/static/js/main.05903037.js.map",
+    "787.e12d87f0.chunk.js.map": "/smarttvnpm/static/js/787.e12d87f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c1838c2.css",
+    "static/js/main.05903037.js"
+  ]
+}
